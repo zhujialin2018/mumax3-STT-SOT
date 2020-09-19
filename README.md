@@ -1,5 +1,6 @@
 # mumax3-STT-SOT
 based on mumax3, with sot(spin orbit torque)
+
 new APIs:
 
 SOThickness : free layer thickness in sot (m)
