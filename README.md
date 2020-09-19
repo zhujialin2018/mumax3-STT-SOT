@@ -17,4 +17,6 @@ SPINHALL : spin hall angle
 
 developed by ZJL in Xi'an Jiaotong University
 
+977952515@qq.com
+
 2020.9.20
