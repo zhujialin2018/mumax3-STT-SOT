@@ -13,6 +13,8 @@ SOTFixedLayer : FixedLayer in sot
 
 SPINHALL : spin hall angle
 
+DisableSOTorque : Disable SOT torque
+
 
 
 developed by ZJL in Xi'an Jiaotong University
