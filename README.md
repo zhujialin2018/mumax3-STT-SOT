@@ -1,4 +1,7 @@
 # mumax3-STT-SOT
+
+## This software currently has many problems and is not recommended for computational simulations and experiments！
+
 based on mumax3, with sot(spin orbit torque)
 
 new APIs:
